@@ -1,7 +1,7 @@
 # S-P-500-Index-Price-Prediction-Model
 This Baseline Machine Learning model helps in predicting tomorrow's S&P 500 index price on trading days using historical data.
 
-**Project Steps:**
+**How I built the Model:**
 1. **Import Necessary Libraries**: Import the required libraries, including pandas, yfinance, matplotlib, and sklearn.
 
 2. **Load or Download S&P 500 Data**: Check if the "sp500.csv" file exists. If not, download historical S&P 500 data using the `yfinance` library and save it as "sp500.csv."
